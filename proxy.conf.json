@@ -1,0 +1,8 @@
+{
+    "/positions.json/*":{
+        "tarjet":"https://jobs.github.com",
+        "secure": false,
+        "logLevel": "debug"
+    }
+
+}
